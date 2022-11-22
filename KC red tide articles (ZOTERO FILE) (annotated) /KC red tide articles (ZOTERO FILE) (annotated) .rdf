@@ -1,0 +1,174 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/ecy.1804">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0012-9658,%201939-9170"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McGowan</foaf:surname>
+                        <foaf:givenName>John A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deyle</foaf:surname>
+                        <foaf:givenName>Ethan R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ye</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carter</foaf:surname>
+                        <foaf:givenName>Melissa L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perretti</foaf:surname>
+                        <foaf:givenName>Charles T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seger</foaf:surname>
+                        <foaf:givenName>Kerri D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verneil</foaf:surname>
+                        <foaf:givenName>Alain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sugihara</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_413"/>
+        <dc:title>Predicting coastal algal blooms in southern California</dc:title>
+        <dcterms:abstract>The irregular appearance of planktonic algae blooms off the coast of southern California has been a source of wonder for over a century. Although large algal blooms can have significant negative impacts on ecosystems and human health, a predictive understanding of these events has eluded science, and many have come to regard them as ultimately random phenomena. However, the highly nonlinear nature of ecological dynamics can give the appearance of randomness and stress traditional methods—such as model fitting or analysis of variance—to the point of breaking. The intractability of this problem from a classical linear standpoint can thus give the impression that algal blooms are fundamentally unpredictable. Here, we use an exceptional time series study of coastal phytoplankton dynamics at La Jolla, CA, with an equation-free modeling approach, to show that these phenomena are not random, but can be understood as nonlinear population dynamics forced by external stochastic drivers (so-called “stochastic chaos”). The combination of this modeling approach with an extensive dataset allows us to not only describe historical behavior and clarify existing hypotheses about the mechanisms, but also make out-of-sample predictions of recent algal blooms at La Jolla that were not included in the model development.</dcterms:abstract>
+        <dc:date>05/2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/ecy.1804</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 15:53:11</dcterms:dateSubmitted>
+        <bib:pages>1419-1433</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0012-9658,%201939-9170">
+        <prism:volume>98</prism:volume>
+        <dc:title>Ecology</dc:title>
+        <dc:identifier>DOI 10.1002/ecy.1804</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>Ecology</dcterms:alternative>
+        <dc:identifier>ISSN 0012-9658, 1939-9170</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_413">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/413/McGowan et al. - 2017 - Predicting coastal algal blooms in southern Califo.pdf"/>
+        <dc:title>McGowan et al. - 2017 - Predicting coastal algal blooms in southern Califo.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.1804</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 15:53:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.latitude38.com/lectronic/red-tide-dead-fish-bay-area-shores/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Latitude38</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_429"/>
+        <link:link rdf:resource="#item_430"/>
+        <dc:title>Red Tide Washes Dead Fish Onto Bay Area Shores</dc:title>
+        <dcterms:abstract>A red tide resulting from the microscopic swimming algae, Heterosigma akashiwo, is washing through the Bay Area waterways, killing thousands of fish.</dcterms:abstract>
+        <dc:date>2022-09-02T12:00:00-07:00</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.latitude38.com/lectronic/red-tide-dead-fish-bay-area-shores/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 16:26:20</dcterms:dateSubmitted>
+        <dc:description>Section: General Sailing</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_429">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/429/2022 - Red Tide Washes Dead Fish Onto Bay Area Shores.pdf"/>
+        <dc:title>2022 - Red Tide Washes Dead Fish Onto Bay Area Shores.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_430">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/430/red-tide-dead-fish-bay-area-shores.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.latitude38.com/lectronic/red-tide-dead-fish-bay-area-shores/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 16:26:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.kqed.org/news/11926046/as-dead-fish-pile-up-the-economic-and-environmental-impact-of-the-red-tide-becomes-apparent">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>KQED</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_432"/>
+        <link:link rdf:resource="#item_433"/>
+        <dc:title>As Dead Fish Pile Up, the Economic and Environmental Impact of the Red Tide Becomes Apparent</dc:title>
+        <dcterms:abstract>Thousands of dead fish have washed up on shores across the Bay Area in recent weeks. A red tide is killing everything from anchovies to sharks. Preventing a similar disaster may cost the region billions of dollars. In late July, Mary Spicer noticed that the water lapping around her kayak started to turn red. A</dcterms:abstract>
+        <z:language>en-us</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kqed.org/news/11926046/as-dead-fish-pile-up-the-economic-and-environmental-impact-of-the-red-tide-becomes-apparent</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 16:33:36</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_432">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/432/As Dead Fish Pile Up, the Economic and Environment.pdf"/>
+        <dc:title>As Dead Fish Pile Up, the Economic and Environment.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_433">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/433/as-dead-fish-pile-up-the-economic-and-environmental-impact-of-the-red-tide-becomes-apparent.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kqed.org/news/11926046/as-dead-fish-pile-up-the-economic-and-environmental-impact-of-the-red-tide-becomes-apparent</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 16:34:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>

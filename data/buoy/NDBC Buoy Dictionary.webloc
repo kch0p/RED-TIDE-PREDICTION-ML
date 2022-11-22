@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://www.ndbc.noaa.gov/measdes.shtml#:~:text=GST-,peak%205%20or%208%20second%20gust%20speed%20(m%2Fs)%20measured%20during%20the%20eight-minute%20or%20two-minute%20period.%20the%205%20or%208%20second%20period%20can%20be%20determined%20by%20payload%2C%20see%20the%20sensor%20reporting%2C%20sampling%2C%20and%20accuracy%20section.,-WVHT</string>
+</dict>
+</plist>
